@@ -14,7 +14,7 @@
 <br>
 0<sup>-</sup>：-2<sup>-149</sup>
 <br>
-<img width="1100" height="250" src="https://github.com/PeiShin-Huang/Lab114/blob/main/ClosestZero_IEEE754.png">
+<img width="900" height="200" src="https://github.com/PeiShin-Huang/Lab114/blob/main/ClosestZero_IEEE754.png">
 
 ## Q3：在float能表示的最接近1的數值?
 在1<sup>-</sup>那裏：1-2<sup>-24</sup>
