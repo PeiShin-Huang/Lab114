@@ -6,8 +6,8 @@ using namespace std;
 int main(){
     float a = 16777216, b =1;
     
-    cout << setprecision(10) << (float) b + a << endl;
-    cout << setprecision(10) << (float) b - a << endl;
+    cout << "a + b = " << setprecision(10) << (float) a + b << endl;
+    cout << "a - b = " << setprecision(10) << (float) a - b << endl;
 
     return 0;
 }

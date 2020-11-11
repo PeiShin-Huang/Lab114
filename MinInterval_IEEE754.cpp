@@ -12,6 +12,7 @@ int main(){
     b = pow(2,-150);
     cout << "pow(2,-149) = " << fixed << setprecision(160) << a << endl;
     cout << "pow(2,-150) = " << fixed << setprecision(160) << b << endl;
+    cout << "最小間隔是pow(2,-149)" << endl;
     
     //Count how many, 算鄰居都是最小間隔的有幾個 
     interval = a;
